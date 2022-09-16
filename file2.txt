@@ -1,3 +1,7 @@
 Hello file2!
 
 new
+
+and new
+
+and and new
